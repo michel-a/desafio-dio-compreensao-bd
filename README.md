@@ -18,6 +18,7 @@ Em um banco de dados não relacional, os esquemas não são necessários. Eles n
 <p>
 O banco de dados não relacional surgiu como uma alternativa para situações onde exista uma quantidade muito grande de informações para guardar e a estrutura de tabelas torna difícil o armazenamento e manutenção.
 </p>
+
 ### Quando usar?
 <p>
 A melhor forma de saber quando usar  um deles, é destacando os pontos fortes de cada um.
